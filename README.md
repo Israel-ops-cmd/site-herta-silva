@@ -2,6 +2,8 @@
 
 Site estático (HTML, CSS e JS num único `index.html`), sem etapa de build.
 
+No ar: https://site-herta-silva.vercel.app/
+
 ## Rodar localmente
 
 Na pasta do projeto:
